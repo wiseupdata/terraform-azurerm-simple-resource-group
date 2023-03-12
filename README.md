@@ -1,2 +1,4 @@
-# terraform-azurerm-simple-resource-group
-Create a simple resource group. Excellent for testing your connections.
+# **Generate a simple resource group**
+> Version: 0.0.1
+
+<br> 
